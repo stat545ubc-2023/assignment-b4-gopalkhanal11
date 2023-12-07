@@ -1,6 +1,6 @@
-#  Assignment B4:Strings and Functional Programming in R 
+# Strings and Functional Programming in R 
 
-**Author**: Gopal Khanal\
+**Author**: Gopal Khanal
 
  2023-12-07
 
